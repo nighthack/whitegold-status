@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="http://192.168.0.153:1313/"/>
+    <title>Staging Backend Server on Whitegold Services</title>
+    <link>http://192.168.0.153:1313/affected/staging-backend-server/</link>
+    <description>Incident history</description>
+    <generator>github.com/cstate</generator>
+    <language>en</language>
+    
+    
+    
+      <atom:link href="http://192.168.0.153:1313/affected/staging-backend-server/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

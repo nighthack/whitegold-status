@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="http://192.168.0.153:1313/"/>
+    <title>Staging Backend on Whitegold Services</title>
+    <link>http://192.168.0.153:1313/affected/staging-backend/</link>
+    <description>Incident history</description>
+    <generator>github.com/cstate</generator>
+    <language>en</language>
+    
+    <lastBuildDate>2025-02-28T04:13:00+00:00</lastBuildDate>
+    <updated>2025-02-28T04:13:00+00:00</updated>
+    
+    
+    
+      <atom:link href="http://192.168.0.153:1313/affected/staging-backend/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Kaleyra down</title>
+        <link>http://192.168.0.153:1313/issues/2025-02-28-sms-services-down/</link>
+        <pubDate>Fri, 28 Feb 2025 04:13:00 +0000</pubDate>
+        <guid>http://192.168.0.153:1313/issues/2025-02-28-sms-services-down/</guid>
+        <category></category>
+        <description>&lt;p&gt;&lt;em&gt;Investigating&lt;/em&gt; - We&amp;rsquo;re aware of kaleyra being down, we are working on communicating with kaleyra team to resolve this as soon as possible.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;&lt;em&gt;Investigating&lt;/em&gt; - We&amp;rsquo;re aware of kaleyra being down, we are working on communicating with kaleyra team to resolve this as soon as possible.&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

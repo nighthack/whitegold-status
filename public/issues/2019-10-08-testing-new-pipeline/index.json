@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "New Pipeline Rollout",
+  "body": "\u003cp\u003eThere may be disruptions in the rollout.\u003c/p\u003e\n",
+  "createdAt": "2019-10-05 16:24:00 +0000 UTC",
+  "lastMod": "2025-02-28 10:46:33 +0530 IST",
+  "permalink": "http://192.168.0.153:1313/issues/2019-10-08-testing-new-pipeline/",
+  "severity": "disrupted",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2019-10-05 16:58:00",
+  "affected": ["API"],
+  "filename": "2019-10-08-testing-new-pipeline.md"
+}

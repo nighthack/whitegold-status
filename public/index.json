@@ -1,0 +1,136 @@
+{
+  "is": "index",
+  "cStateVersion": "5.6.1",
+  "apiVersion": "2.0",
+  "title": "Whitegold Services",
+  "languageCodeHTML": "en",
+  "languageCode": "en",
+  "baseURL": "http://192.168.0.153:1313/", 
+  "description": "We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.",
+  "summaryStatus": "down", 
+  "categories": [
+      {
+        "name": "AWS",
+        "description": "The main servers are located here.",
+        "hideTitle": false,
+        "closedByDefault": true
+      }
+    ,
+      {
+        "name": "Netlify",
+        "description": "The frontend are located here.",
+        "hideTitle": false,
+        "closedByDefault": true
+      }
+    
+  ],
+  
+  
+  "pinnedIssues": [],
+  "systems": [
+    
+      {
+        "name": "Production Backend",
+        "description": "whitegold production backend server",
+        "category": "AWS", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Testing Backend",
+        "description": "whitegold testing backend server",
+        "category": "AWS", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Staging Backend",
+        "description": "whitegold server backend server",
+        "category": "AWS", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Production Cache",
+        "description": "cache server responsible for blocklisted tokens and background jobs for production server",
+        "category": "AWS", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Staging+Testing Cache",
+        "description": "cache server responsible for blocklisted tokens and background jobs for both Testing and Staging",
+        "category": "AWS", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "OpenSearch",
+        "description": "AWS opensearch that records all logs from Production, Testing and Staging Servers.",
+        "category": "AWS", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Production Frontend",
+        "description": "crm.whitegold.money",
+        "category": "Netlify", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Staging Frontend",
+        "description": "beta.whitegold.online",
+        "category": "Netlify", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Testing Frontend",
+        "description": "uat.whitegold.online",
+        "category": "Netlify", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      }
+  ],
+  
+  
+  "buildDate": "2025-02-28",
+  "buildTime": "11:06",
+  "buildTimezone": "IST",
+  "colorBrand": "#0a0c0f",
+  "colorOk": "#008000",
+  "colorDisrupted": "#cc4400",
+  "colorDown": "#e60000",
+  "colorNotice": "#24478f",
+  "alwaysKeepBrandColor": "true",
+  "logo": "http://192.168.0.153:1313/logo.png",
+  "googleAnalytics": "UA-00000000-1"
+}
